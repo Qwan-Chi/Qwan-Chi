@@ -1,16 +1,18 @@
-### Hi there 👋
+# Привет, я Михаил
+Я Project manager в компании Leftbrained, а также Junior-разработчик.
 
-<!--
-**Qwan-Chi/Qwan-Chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Навыки
+Имею опыт работы со следующими технологиями и инструментами:
+- Системы управления проектами (Jira, Notion, GitHub Project, GitLab, Craft)
+- Работа с документацией, ГОСТами (Markdown, Typst)
+- Kotlin (Multiplatform, Android)
+- UI/UX дизайн (Figma, Material Design)
+- C# (WPF)
+- C++ (Windows Forms, CLI)
+- Java (Android, Spring, Java FX)
 
-Here are some ideas to get you started:
+## О себе
+Живу в Санкт-Петербурге, учусь на программиста в ГУАПе. В свободное время развиваю свои навыки в дизайне и практикуюсь в написании документации.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+[Telegram](https://t.me/bigcock18cm)
