@@ -1,13 +1,14 @@
-<!-- ГАЛЕРЕЯ ЗМЕЙКИ: светлая и тёмная тема -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Qwan-Chi/Qwan-Chi/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-### 🛠 Технологии
+<h3 align="center">🛠 Технологии</h3>
 
 <div align="center">
 
@@ -25,7 +26,7 @@
 
 ---
 
-### 📊 Статистика
+<h3 align="center">📊 Статистика</h3>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Qwan-Chi&show_icons=true&theme=dark&hide_border=true&bg_color=0F1117&title_color=E07B39&icon_color=E07B39&text_color=E8EAF0" />
@@ -34,7 +35,7 @@
 
 ---
 
-### 🚀 Избранные проекты
+<h3 align="center">🚀 Избранные проекты</h3>
 
 <table>
   <tr>
@@ -62,7 +63,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">✅ Odin</h3>
-      <p dispign="center">To-do с JWT-авторизацией<br/>
+      <p align="center">To-do с JWT-авторизацией<br/>
       <b>React 19 · Redux Toolkit · Vite</b></p>
       <p align="center">
         <a href="https://github.com/Qwan-Chi/Odin">
